@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samyak Meshram</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel | Python | Tableau</h3>
+<h3 align="center">Aspiring Data Analyst | SQL | Power BI | Excel | Python | Tableau | Machine Learning | Microsoft Azure |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakmda&label=Profile%20views&color=0e75b6&style=flat" alt="samyakmda" /> </p>
 
